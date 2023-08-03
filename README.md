@@ -1,2 +1,1 @@
-# JavaCode
-Java Coding Repository
+Java Coding Repository for Udemy Course
