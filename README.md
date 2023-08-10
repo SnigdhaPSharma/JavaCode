@@ -49,10 +49,9 @@ ProjectRoot/
 3. Open the project in your IDE.
 4. Configure the project dependencies by updating the `pom.xml` file.
 5. Update the browser driver path in the `DriverManager` class if needed.
-6. Create your test data Excel file(s) with appropriate sheets and columns.
-7. Update the locators in the `LoginPage` and `HomePage` classes to match your application.
-8. Implement the assertions and test logic in the test classes.
-9. Run the tests using TestNG from the `testng.xml` file.
+6. Update the test data Excel file(s) with appropriate sheets and columns for the application under test.
+7. Update the locators in the `LoginPage` and `HomePage` classes to match the application under test.
+8. Run the tests using TestNG from the `testng.xml` file.
 
 ## Test Execution
 
