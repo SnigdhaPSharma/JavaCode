@@ -56,7 +56,7 @@ ProjectRoot/
 
 ## Test Execution
 
-1. Run the tests using your preferred IDE or by executing the following command in the terminal:
+1. Run the tests using your preferred IDE or by executing the following command in the terminal:   
 mvn clean test -DsuiteXmlFile=testng.xml
 
 ## Contributors
