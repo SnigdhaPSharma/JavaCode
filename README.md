@@ -5,34 +5,34 @@ This project demonstrates a data-driven approach to automated testing using Sele
 ## Project Structure
 
 The project is structured as follows:
-ProjectRoot/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com.automation.pages/
-│ │ │ │ ├── LoginPage.java
-│ │ │ │ ├── HomePage.java
-│ │ │ ├── com.automation.utils
-│ │ │ │ ├── DriverManager.java
-│ │ │ │ ├── ScreenshotUtils.java
-│ │ │ ├── com.automation.listeners
-│ │ │ │ ├── ScreenshotListener.java
-│ │ ├── resources/
-│ │ │ ├── drivers
-│ │ │ │ ├── chromedriver.exe
-│ │ │ ├── testdata
-│ │ │ │ ├── LoginTestData.xlsx
-│ ├── test/
-│ │ ├── java/
-│ │ │ ├── com.automation.tests/
-│ │ │ │ ├── LoginTests.java
-│ │ │ │ ├── HomePageTest.java
-│ │ │ ├── com.automation.dataproviders/
-│ │ │ │ ├── LoginData.java
-│ │ │ │ ├── HomeData.java
-│ │ ├── resources/
-├── testng.xml
-├── pom.xml
+ProjectRoot/  
+├── src/  
+│ ├── main/   
+│ │ ├── java/    
+│ │ │ ├── com.automation.pages/   
+│ │ │ │ ├── LoginPage.java   
+│ │ │ │ ├── HomePage.java   
+│ │ │ ├── com.automation.utils   
+│ │ │ │ ├── DriverManager.java   
+│ │ │ │ ├── ScreenshotUtils.java   
+│ │ │ ├── com.automation.listeners   
+│ │ │ │ ├── ScreenshotListener.java   
+│ │ ├── resources/   
+│ │ │ ├── drivers    
+│ │ │ │ ├── chromedriver.exe   
+│ │ │ ├── testdata   
+│ │ │ │ ├── LoginTestData.xlsx   
+│ ├── test/    
+│ │ ├── java/    
+│ │ │ ├── com.automation.tests/    
+│ │ │ │ ├── LoginTests.java   
+│ │ │ │ ├── HomePageTest.java   
+│ │ │ ├── com.automation.dataproviders/    
+│ │ │ │ ├── LoginData.java    
+│ │ │ │ ├── HomeData.java    
+│ │ ├── resources/    
+├── testng.xml   
+├── pom.xml   
 
 
 ## Features
